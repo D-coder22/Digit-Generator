@@ -9,4 +9,4 @@ To run this code you will require:
 
 Run the code from Jupyter
 
-> **Note**: Running the code with an Nvidea GPU would make the execution faster.
+> **Note**: Running the code with an Nvidia GPU would make the execution faster.
